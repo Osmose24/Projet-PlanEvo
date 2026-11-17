@@ -93,9 +93,13 @@ Le `<br>` se place **à l'intérieur** du paragraphe, entre les deux lignes à s
 ## Questions de compréhension
 
 1. Pourquoi ne doit-il y avoir qu'un seul `<h1>` par page ? (Pensez aux moteurs de recherche.)
+=> La balise <h1> représente le titre principal de la page et définit son sujet unique
 2. Pourquoi ne faut-il pas choisir une balise de titre (`<h2>`, `<h3>`…) pour sa **taille** d'affichage ?
+=> les balises de titre servent à hiérarchiser le contenu (plan du document) et non à faire de la mise en page visuelle.
 3. Quelle est la différence entre `<strong>` et `<b>` ? Entre `<em>` et `<i>` ?
+=>la différence réside entre le sens du texte et la simple apparence visuelle
 4. Que fait le navigateur quand il rencontre plusieurs espaces ou retours à la ligne dans le code ?
+=>le navigateur ignore les espaces et les retours à la ligne supplémentaires et les fusionne en un seul espace simple à l'affichage.
 
 ## Lien avec le brief PlantEvo
 
