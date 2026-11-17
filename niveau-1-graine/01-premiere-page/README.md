@@ -84,9 +84,13 @@ Une fois que vous savez écrire la structure de mémoire, VS Code peut la géné
 ## Questions de compréhension
 
 1. Quelle est la différence entre le `<head>` et le `<body>` ?
+=> la balise <head> contientles métadonnées et les configurations invisibles d'une page web, tandis que la balise <body> regroupe tout le contenu visible affiché à l'utilisateur.
 2. À quoi sert l'attribut `lang="fr"` ? (Pensez aux lecteurs d'écran et aux moteurs de recherche.)
+=> l'attribut `land="fr"` sert à indiquer aux lecteurs d'écran et aux moteurs de recherche que le contenu d'une page web est rédigé en Français
 3. À quoi sert la ligne `<!DOCTYPE html>` ?
+=> elle sert à indiquer au navigateur web que le document est écrit en HTML5
 4. Pourquoi est-il utile d'écrire des commentaires dans son code, alors qu'ils ne s'affichent pas ?
+=> les commentaires servent à expliquer et organiser le code pour ceux qui le lisent, sans pertuber l'affichage pour les visiteurs
 
 ## Lien avec le brief PlantEvo
 
