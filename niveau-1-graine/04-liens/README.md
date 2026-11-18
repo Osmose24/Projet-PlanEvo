@@ -72,14 +72,14 @@ Les numéros correspondent aux commentaires `TODO` dans les fichiers.
 
 | Page de départ | Lien | Destination attendue | Fonctionne ? |
 |---|---|---|---|
-| `index.html` | Nos cultures | `cultures.html` | |
-| `index.html` | Nous contacter | `pages/contact.html` | |
-| `index.html` | Site de la FAO | fao.org (nouvel onglet) | |
-| `cultures.html` | Retour à l'accueil | `index.html` | |
-| `cultures.html` | Article Wikipédia | wikipedia.org | |
-| `pages/contact.html` | Retour à l'accueil | `index.html` | |
-| `pages/contact.html` | Nos cultures | `cultures.html` | |
-| `pages/contact.html` | Adresse e-mail | logiciel de messagerie | |
+| `index.html` | Nos cultures | `cultures.html` | oui|
+| `index.html` | Nous contacter | `pages/contact.html` |oui |
+| `index.html` | Site de la FAO | fao.org (nouvel onglet) |oui |
+| `cultures.html` | Retour à l'accueil | `index.html` |oui |
+| `cultures.html` | Article Wikipédia | wikipedia.org |oui |
+| `pages/contact.html` | Retour à l'accueil | `index.html` |oui |
+| `pages/contact.html` | Nos cultures | `cultures.html` | oui|
+| `pages/contact.html` | Adresse e-mail | logiciel de messagerie | oui|
 
 ## Critères de réussite
 
